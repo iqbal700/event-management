@@ -1,10 +1,17 @@
-import HeroSection from "@/components/homepage/HeroSection";
-import { discoverValidationDepths } from "next/dist/server/app-render/instant-validation/instant-validation";
-
+import Hero from "../components/Hero";
+import Features from "../components/Features";
+import Stats from "../components/Stats";
+import EventCards from "../components/EventCards";
+import Testimonials from "../components/Testimonials";
 
 export default function Home() {
   return (
-        <HeroSection></HeroSection>
-      
+    <>
+      <Hero />
+      <Features />
+      <Stats />
+      <EventCards />
+      <Testimonials />
+    </>
   );
 }

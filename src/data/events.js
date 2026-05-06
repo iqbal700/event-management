@@ -1,5 +1,5 @@
 
-export const eventsData = [
+export const events = [
   {
     id: "1",
     title: "Summer Music Festival",
