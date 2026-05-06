@@ -24,9 +24,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-**Designed with ❤️ by Mohammed Iqbal**Here is the complete, structured content for your **README.md**. You can copy and paste this directly into your file.
-```markdown
-# 📅 EventMaster
+**## 📅 EventMaster
 
 **EventMaster** is a full-stack event management platform designed to help users discover, track, and manage local and international experiences. Built with the **MERN stack** and **Next.js**, it offers a seamless, responsive interface for both event organizers and attendees.
 
