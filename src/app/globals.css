@@ -17,3 +17,8 @@
 [data-theme='light'] {
   color-scheme: light;
 }
+
+/* src/app/globals.css */
+.menu li a.active {
+  @apply border-b-2 border-primary text-primary font-bold bg-transparent;
+}
