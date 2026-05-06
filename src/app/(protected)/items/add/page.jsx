@@ -161,3 +161,4 @@ const AddEventPage = () => {
 };
 
 export default AddEventPage;
+
